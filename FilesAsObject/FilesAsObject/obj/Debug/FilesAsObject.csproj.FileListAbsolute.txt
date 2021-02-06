@@ -1,0 +1,6 @@
+C:\Users\vb\Documents\Visual Studio 2012\Projects\ConsoleApplication1\FilesAsObject\FilesAsObject\bin\Debug\FilesAsObject.exe.config
+C:\Users\vb\Documents\Visual Studio 2012\Projects\ConsoleApplication1\FilesAsObject\FilesAsObject\bin\Debug\FilesAsObject.exe
+C:\Users\vb\Documents\Visual Studio 2012\Projects\ConsoleApplication1\FilesAsObject\FilesAsObject\bin\Debug\FilesAsObject.pdb
+C:\Users\vb\Documents\Visual Studio 2012\Projects\ConsoleApplication1\FilesAsObject\FilesAsObject\obj\Debug\FilesAsObject.csprojResolveAssemblyReference.cache
+C:\Users\vb\Documents\Visual Studio 2012\Projects\ConsoleApplication1\FilesAsObject\FilesAsObject\obj\Debug\FilesAsObject.exe
+C:\Users\vb\Documents\Visual Studio 2012\Projects\ConsoleApplication1\FilesAsObject\FilesAsObject\obj\Debug\FilesAsObject.pdb
